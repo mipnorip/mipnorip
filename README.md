@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CodeWars](https://www.codewars.com/users/mipnorip/badges/large)]
+![CodeWars](https://www.codewars.com/users/mipnorip/badges/large)
