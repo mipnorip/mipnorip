@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Ilya, I am 19 years old, I am studying in college for an information security specialist. 
+My name is Ilya, I am 19 years old, studying in college for an information security specialist. 
 
 I am programming on Python :snake:.
 
